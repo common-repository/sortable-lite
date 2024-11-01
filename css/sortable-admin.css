@@ -1,0 +1,18 @@
+		.short-box-container {  width:100%;}
+		.short-box {display:inline-block; width:45%; float:left; margin-right:4%; margin-bottom:15px; }
+		.short-box h5 { margin:5px 0;}
+		.short-box-in { width:100%;  border:2px solid #fff; padding:5px; min-height:70px;}
+		.short-box-in span { cursor:pointer; display:inline-block; padding:3px 9px; background:#fff; border:1px solid #ddd; border-radius:5px 5px 5px 5px;  margin:4px; }
+		.short-box-out {   border:2px dashed #ccc; min-height:70px;padding:5px;}
+		.short-box-out span { cursor:pointer; display:inline-block; padding:3px 9px; background:#eee; border:1px solid #ddd; border-radius:5px 5px 5px 5px;  margin:4px; }	
+		.short-box-in span:hover, .short-box-out span:hover {opacity:0.9;}
+		.sort-shortcodes-generator {padding:15px 0; }
+		.shortgen-bar-item { background:#eee;border:1px solid #ddd; padding:15px; border-radius:5px 5px 5px 5px; margin-bottom:15px; }
+		.shortgen-bar-item h4{ margin:0px 0px 10px 0px;}
+		.shortgen-bar-item p i { font-size: 18px; color:#777; float: left; margin: 1px 7px 0 0; }
+		.shortgen-bar-item p { margin:10px 0 0 0; color:#555; font-style:italic; }
+		.shortgen-bar-item input, .shortgen-bar-item select { min-width:250px;}
+
+		
+		.slink { padding:3px 10px; background:#fff; border:1px solid #eee; margin-bottom:5px;  }
+		.slink span {display:inline-block; padding:3px; margin-right:7px;  }
